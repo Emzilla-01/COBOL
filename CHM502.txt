@@ -1,0 +1,27 @@
+000100        IDENTIFICATION DIVISION.                                         
+000200        PROGRAM-ID. CHM502.                                              
+000300        AUTHOR. ***REMOVED*** KAY.                                                
+000310       ******************************************************************
+000320       * FUNCTIONALITY: WRITE A PROGRAM USING CONDITION NAMES            
+000330       * TO CATEGORIZE A PERSON BASED ON GENDER .                        
+000340       * ----------------------------------------------------------------
+000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
+000351       * ----------------------------------------------------------------
+000360       * JEBA02    ***REMOVED***     7/20/2016      PROGRAM CREATED               
+000370       ******************************************************************
+000400        DATA DIVISION.                                                   
+000401        WORKING-STORAGE SECTION.                                         
+000410        01 WS-NAME PIC X(10).                                            
+000420        01 WS-GENDER PIC A.                                              
+000430          88 CND-M VALUE "M".                                            
+000440          88 CND-F VALUE "F".                                            
+000450          88 CND-O VALUE "O".                                            
+000800        PROCEDURE DIVISION.                                              
+000900        ACCEPT-PARA.                                                     
+001000            ACCEPT WS-NAME.                                              
+001100            ACCEPT WS-GENDER.                                            
+001200        MAIN-PARA.                                                       
+001300            IF CND-M DISPLAY WS-NAME " IS MALE.".                        
+001400            IF CND-F DISPLAY WS-NAME " IS FEMALE.".                      
+001500            IF CND-O DISPLAY WS-NAME " IS NON-BINARY.".                  
+002000            STOP RUN.                                                    
