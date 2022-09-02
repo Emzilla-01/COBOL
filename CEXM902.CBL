@@ -1,6 +1,6 @@
 000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CEXM902.                                             
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY: WRITE A PROGRAM WHICH WILL STORE THE ADDRESS     
 000330       *               OF EACH STUDENT. THE STRUCTURE IS SHOWN BELOW.    
@@ -12,11 +12,11 @@
 000336       *  ZIP CODE 8 BYTES, NUMERIC                                      
 000337       *                                                                 
 000338       * INFILE : N/A                                                    
-000339       * OUTFILE: JEBA02.***REMOVED***.COBOL.STUDOUT                              
+000339       * OUTFILE: JEBA02.EMY.COBOL.STUDOUT                              
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***     8/02/2016   PROGRAM CREATED                  
+000360       * JEBA02    EMY     8/02/2016   PROGRAM CREATED                  
 000380       ******************************************************************
 000390        ENVIRONMENT DIVISION.                                            
 000391        INPUT-OUTPUT SECTION.                                            

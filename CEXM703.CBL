@@ -1,13 +1,13 @@
 000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CEXM703.                                             
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY: TO CREATE A PROGRAM THAT DISPLAYS A              
 000330       * MULTIPLICATION TABLE IN A TABLE.                                
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***    7/27/2016       PROGRAM COPIED FROM CEXM703.  
+000360       * JEBA02    EMY    7/27/2016       PROGRAM COPIED FROM CEXM703.  
 000370       ******************************************************************
 000400        DATA DIVISION.                                                   
 000500        WORKING-STORAGE SECTION.                                         

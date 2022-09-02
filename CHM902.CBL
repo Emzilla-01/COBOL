@@ -1,6 +1,6 @@
 000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CHM902.                                              
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY: WRITE A PROGRAM TO WRITE TO A SEQUENTIAL DATASET.
 000330       * HARDCODE 10 RECORDS USING MOVE STATEMENT.                       
@@ -11,11 +11,11 @@
 000335       *       COMPUTER MARKS 3 BYTES, NUMERIC                           
 000336       *       AVERAGE OF MARKS 3 BYTES, NUMERIC                         
 000338       * INFILE : N/A                                                    
-000339       * OUTFILE: JEBA02.***REMOVED***.COBOL.STUDFILE                             
+000339       * OUTFILE: JEBA02.EMY.COBOL.STUDFILE                             
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***     8/02/2016   PROGRAM CREATED                  
+000360       * JEBA02    EMY     8/02/2016   PROGRAM CREATED                  
 000380       ******************************************************************
 000390        ENVIRONMENT DIVISION.                                            
 000391        INPUT-OUTPUT SECTION.                                            

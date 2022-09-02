@@ -1,21 +1,21 @@
 000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CEXM906.                                             
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY: WRITE A PROGRAM TO JOIN TWO RECORD FILES         
 000330       *                INCLUDING STUDENT GRADES, NAME, ADDRESS,         
 000331       *                COUNTRY, STATE, ZIP, AND A PROMPT.               
 000332       *               + FORMAT INTO REPORT                              
-000338       *        ADDFILE: JEBA02.***REMOVED***.COBOL.STADDRSS                      
-000339       *        GPAFILE: JEBA02.***REMOVED***.COBOL.STUDFILE                      
-000341       *        OUTFILE: JEBA02.***REMOVED***.COBOL.STFINAL                       
+000338       *        ADDFILE: JEBA02.EMY.COBOL.STADDRSS                      
+000339       *        GPAFILE: JEBA02.EMY.COBOL.STUDFILE                      
+000341       *        OUTFILE: JEBA02.EMY.COBOL.STFINAL                       
 000342       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***     8/02/2016   PROGRAM CREATED                  
-000370       * JEBA02    ***REMOVED***     8/04/2016   PROGRAM ADAPTED FROM CHM903      
-000371       * JEBA02    ***REMOVED***     8/04/2016   PROGRAM ADAPTED FROM CEXM905     
-000372       * JEBA02    ***REMOVED***     8/08/2016   DEBUGGING DISPLAY PROBLEM        
+000360       * JEBA02    EMY     8/02/2016   PROGRAM CREATED                  
+000370       * JEBA02    EMY     8/04/2016   PROGRAM ADAPTED FROM CHM903      
+000371       * JEBA02    EMY     8/04/2016   PROGRAM ADAPTED FROM CEXM905     
+000372       * JEBA02    EMY     8/08/2016   DEBUGGING DISPLAY PROBLEM        
 000380       ******************************************************************
 000390        ENVIRONMENT DIVISION.                                            
 000391        INPUT-OUTPUT SECTION.                                            

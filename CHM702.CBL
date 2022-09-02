@@ -1,13 +1,13 @@
 000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CHM702.                                              
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY:                                                  
 000330       *                                                                 
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***      7/27/2016     PROGRAM CREATED               
+000360       * JEBA02    EMY      7/27/2016     PROGRAM CREATED               
 000361       * PERFORM STATEMENT : COBOL'S ITERATIVE LOOP CONSTRUCT.           
 000362       * IF STATEMENT & CONDITION NAMES: COBOL'S BOOLEAN CONSTRUCT.      
 000363       * TABLE HANDLING: COBOL'S METHOD OF HANDLING UNIFORM DATA.        
@@ -16,7 +16,7 @@
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***     8/03/2016   PROGRAM CREATED                  
+000360       * JEBA02    EMY     8/03/2016   PROGRAM CREATED                  
 000380       ******************************************************************
 000390        ENVIRONMENT DIVISION.                                            
 000391        INPUT-OUTPUT SECTION.                                            

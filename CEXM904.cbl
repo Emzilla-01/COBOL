@@ -1,6 +1,6 @@
 000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CEXM904.                                             
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY: TO CREATE A REPORT WITH THE OUTPUT OF CEXM902    
 000330       *               THE DATA STRUCTURE IS SHOWN BELOW.                
@@ -11,13 +11,13 @@
 000335       *  STATE 10 BYTES, ALPHANUMERIC                                   
 000336       *  ZIP CODE 8 BYTES, NUMERIC                                      
 000337       *                                                                 
-000338       * INFILE : JEBA02.***REMOVED***.COBOL.STUDFILE                             
-000339       * OUTFILE: JEBA02.***REMOVED***.COBOL.STUDOUT                              
+000338       * INFILE : JEBA02.EMY.COBOL.STUDFILE                             
+000339       * OUTFILE: JEBA02.EMY.COBOL.STUDOUT                              
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***     8/02/2016   CEXM902 CREATED                  
-000370       * JEBA02    ***REMOVED***     8/04/2016   CEXM904 CREATED                  
+000360       * JEBA02    EMY     8/02/2016   CEXM902 CREATED                  
+000370       * JEBA02    EMY     8/04/2016   CEXM904 CREATED                  
 000380       ******************************************************************
 000390        ENVIRONMENT DIVISION.                                            
 000391        INPUT-OUTPUT SECTION.                                            

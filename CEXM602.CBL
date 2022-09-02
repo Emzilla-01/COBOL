@@ -1,13 +1,13 @@
 000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CEXM602.                                             
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY: TO DISPLAY THE EVEN NUMBERS BETWEEN 2-100.       
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***     7/20/2016     PROGRAM CREATED                
-000361       * JEBA02    ***REMOVED***     7/21/2016     REFINED STRUCTURE,             
+000360       * JEBA02    EMY     7/20/2016     PROGRAM CREATED                
+000361       * JEBA02    EMY     7/21/2016     REFINED STRUCTURE,             
 000362       *                                  APPLIED CODING STANDARDS.      
 000370       ******************************************************************
 000400        DATA DIVISION.                                                   

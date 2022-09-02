@@ -1,19 +1,19 @@
 000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CEXM1002.                                            
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY: SILICON VALLEY MFG WANTS AN EMPLOYEE LISTING     
 000330       *   THAT INCLUDES EACH EMPLOYEE'S NAME, DEPT NUMBER, & DEPT NAME. 
 000331       * DEPT DETAILS ARE IN INPUT FILE.                                 
 000332       * READ THE INPUT DATA INTO A SEARCHABLE TABLE.                    
 000333       *                                                                 
-000334       * INPUT  : JEBA02.***REMOVED***.COBOL.EMPIN                                
-000335       * OUTPUT : JEBA02.***REMOVED***.COBOL.CEXM1002                             
+000334       * INPUT  : JEBA02.EMY.COBOL.EMPIN                                
+000335       * OUTPUT : JEBA02.EMY.COBOL.CEXM1002                             
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***    08/09/2016     PROGRAM CREATED                
-000368       * JEBA02    ***REMOVED***    08/10/2016     PROGRAM UPDATED                
+000360       * JEBA02    EMY    08/09/2016     PROGRAM CREATED                
+000368       * JEBA02    EMY    08/10/2016     PROGRAM UPDATED                
 000370       ******************************************************************
 000380        ENVIRONMENT DIVISION.                                            
 000390        INPUT-OUTPUT SECTION.                                            

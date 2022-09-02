@@ -1,12 +1,12 @@
 000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CEXSAM4.                                             
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY: TO TEST THE SEARCH FUNCTION.                     
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***     7/29/2016      PROGRAM CREATED               
+000360       * JEBA02    EMY     7/29/2016      PROGRAM CREATED               
 000368       *                                                                 
 000370       ******************************************************************
 000400        DATA DIVISION.                                                   

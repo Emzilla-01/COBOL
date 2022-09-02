@@ -1,6 +1,6 @@
 000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CEXM702.                                             
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY:                                                  
 000330       * WRITE A PROGRAM TO STORE 12 TEMPERATURES OF THE DAY. DISPLAY AVG
@@ -8,7 +8,7 @@
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***     7/25/2016      PROGRAM CREATED               
+000360       * JEBA02    EMY     7/25/2016      PROGRAM CREATED               
 000370       ******************************************************************
 000400        DATA DIVISION.                                                   
 000500        WORKING-STORAGE SECTION.                                         

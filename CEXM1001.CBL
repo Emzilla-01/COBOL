@@ -1,6 +1,6 @@
 000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CEXM1001.                                            
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY: ACCEPT TWO NUMBERS FROM SYSIN.                   
 000330       *  SEND THESE VALUES TO A SUBORDINATE PROGRAM.                    
@@ -8,7 +8,7 @@
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***     08/09/2016     PROGRAM CREATED               
+000360       * JEBA02    EMY     08/09/2016     PROGRAM CREATED               
 000368       *                                                                 
 000370       ******************************************************************
 000400        DATA DIVISION.                                                   

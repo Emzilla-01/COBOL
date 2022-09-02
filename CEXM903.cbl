@@ -1,6 +1,6 @@
 000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CEXM903.                                             
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY: WRITE A PROGRAM WHICH WILL TAKE EMPLOYEE FILES   
 000330       *              AS INPUT AND OUTPUT RECORDS OF EMPNO > 70.         
@@ -11,12 +11,12 @@
 000335       *  DATE OF JOINING: PIC X(08)                                     
 000336       *                                                                 
 000337       *                                                                 
-000338       * INFILE : JEBA02.***REMOVED***.COBOL.EMPIN                                
-000339       * OUTFILE: JEBA02.***REMOVED***.COBOL.EMPOUT                               
+000338       * INFILE : JEBA02.EMY.COBOL.EMPIN                                
+000339       * OUTFILE: JEBA02.EMY.COBOL.EMPOUT                               
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***     8/02/2016   PROGRAM CREATED                  
+000360       * JEBA02    EMY     8/02/2016   PROGRAM CREATED                  
 000380       ******************************************************************
 000390        ENVIRONMENT DIVISION.                                            
 000391        INPUT-OUTPUT SECTION.                                            

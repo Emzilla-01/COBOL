@@ -1,6 +1,6 @@
 000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CEXM502B.                                            
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY:                                                  
 000330       * WRITE A PROGRAM TO CATEGORIZE AS CHILD/TEEN/ADULT/SENIOR BASED  
@@ -8,7 +8,7 @@
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***     7/18/2016     PROGRAM CREATED                
+000360       * JEBA02    EMY     7/18/2016     PROGRAM CREATED                
 000370       ******************************************************************
 000400        DATA DIVISION.                                                   
 000500        WORKING-STORAGE SECTION.                                         

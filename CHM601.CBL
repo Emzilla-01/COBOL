@@ -1,14 +1,14 @@
 000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CHM601.                                             
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY: WRITE A PROGRAM TO DISPLAY                       
 000330       * THE SERIES 2, 4, 6, 8...                                        
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***     7/20/2016     PROGRAM CREATED                
-000361       * JEBA02    ***REMOVED***     7/22/2016     APPLIED CODING STANDARDS.      
+000360       * JEBA02    EMY     7/20/2016     PROGRAM CREATED                
+000361       * JEBA02    EMY     7/22/2016     APPLIED CODING STANDARDS.      
 000370       ******************************************************************
 000400        DATA DIVISION.                                                   
 000500        WORKING-STORAGE SECTION.                                         

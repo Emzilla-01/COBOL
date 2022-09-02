@@ -1,14 +1,14 @@
 000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CEXM801.                                             
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY: TO RECEIVE FIRST AND LAST NAME AS TWO FIELDS     
 000330       * IN SYSIN. DISPLAY AS ONE ITEM USING REDEFINES                   
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***     7/27/2016     PROGRAM CREATED                
-000361       * JEBA02    ***REMOVED***     8/01/2016     APPLIED CODING STANDARDS.      
+000360       * JEBA02    EMY     7/27/2016     PROGRAM CREATED                
+000361       * JEBA02    EMY     8/01/2016     APPLIED CODING STANDARDS.      
 000370       ******************************************************************
 000400        DATA DIVISION.                                                   
 000401        WORKING-STORAGE SECTION.                                         

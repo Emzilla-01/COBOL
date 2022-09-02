@@ -1,6 +1,6 @@
  000100        IDENTIFICATION DIVISION.                                         
  000200        PROGRAM-ID. CEXM704.                                             
- 000300        AUTHOR. ***REMOVED*** KAY.                                                
+ 000300        AUTHOR. EMY KAY.                                                
  000310       ******************************************************************
  000320       * FUNCTIONALITY: WRITE A PROGRAM TO ACCEPT EMPLOYEE NUMBERS       
  000321       *  AND NAMES THROUGH SYSIN - LOAD THESE VALUES INTO               
@@ -9,10 +9,10 @@
  000340       * ----------------------------------------------------------------
  000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
  000351       * ----------------------------------------------------------------
- 000360       * JEBA02    ***REMOVED***    7/25/2016       PROGRAM CREATED.              
- 000361       * JEBA02    ***REMOVED***    7/26/2016       PROGRAM EDITED FOR FUNCTION.  
- 000362       * JEBA02    ***REMOVED***    7/29/2016       PROGRAM EDITED FOR FORMAT.    
- 000363       * JEBA02    ***REMOVED***    8/01/2016       REMOVED SUBSCRIPT VARIABLE.   
+ 000360       * JEBA02    EMY    7/25/2016       PROGRAM CREATED.              
+ 000361       * JEBA02    EMY    7/26/2016       PROGRAM EDITED FOR FUNCTION.  
+ 000362       * JEBA02    EMY    7/29/2016       PROGRAM EDITED FOR FORMAT.    
+ 000363       * JEBA02    EMY    8/01/2016       REMOVED SUBSCRIPT VARIABLE.   
  000370       ******************************************************************
 000400        DATA DIVISION.                                                   
 000500        WORKING-STORAGE SECTION.                                         

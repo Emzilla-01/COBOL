@@ -1,6 +1,6 @@
  000100        IDENTIFICATION DIVISION.                                         
 000200        PROGRAM-ID. CHM602A.                                             
-000300        AUTHOR. ***REMOVED*** KAY.                                                
+000300        AUTHOR. EMY KAY.                                                
 000310       ******************************************************************
 000320       * FUNCTIONALITY: WRITE A PROGRAM FOR ACCEPTING N NUMBER OF        
 000330       *  STUDENT DETAILS, ACCEPTING N AS INPUT.                         
@@ -9,8 +9,8 @@
 000340       * ----------------------------------------------------------------
 000350       * PRJ NO    NAME     DATE          MAINT DESC.                    
 000351       * ----------------------------------------------------------------
-000360       * JEBA02    ***REMOVED***     7/20/2016     PROGRAM CREATED                
-000361       * JEBA02    ***REMOVED***     7/22/2016     APPLIED CODING STANDARDS.      
+000360       * JEBA02    EMY     7/20/2016     PROGRAM CREATED                
+000361       * JEBA02    EMY     7/22/2016     APPLIED CODING STANDARDS.      
 000370       *****************************************************************?
 000400        DATA DIVISION.                                                   
 000401        WORKING-STORAGE SECTION.                                         
